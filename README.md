@@ -6,7 +6,7 @@ capturing) method[1].
 
 ## demo
 ・C  
-![](img/demo.gif)  
+![](/img/thinc, beta = 0.2, dt = 0.01, dx = 0.02, u = 1, nu = 0.5_upwind.gif)  
 
 ## Reference
 [1] F. Xiao, Y Honma and T. kono, “A simple algebraic interface capturing scheme using
