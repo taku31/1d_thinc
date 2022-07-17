@@ -1,4 +1,4 @@
-## 1Dadvection
+## THINC method
 
 ・This program solves the one-dimensional advection equation by THINC(tangent of hyperbola for interface
 capturing) method[1].  
